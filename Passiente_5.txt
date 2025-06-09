@@ -1,0 +1,12 @@
+Nome: ok
+Sexo: 
+Idade: 10
+
+Estado de Conciencia: bem
+Sinais Vitais: ok
+Descricao da Lesao: 
+Data: 13
+Hora: 12
+Local: 14
+Tipo: grau
+Observacoes: ok
